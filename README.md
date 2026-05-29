@@ -7,17 +7,11 @@ Sistema web completo para adoção de pets que permite cadastro de usuários, au
 ## Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
 ![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
 ![Multer](https://img.shields.io/badge/Multer-FF6C37?style=for-the-badge&logo=files&logoColor=white)
-
 ![MVC](https://img.shields.io/badge/MVC_Architecture-4B5563?style=for-the-badge)
-
 ![REST API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## Frontend
