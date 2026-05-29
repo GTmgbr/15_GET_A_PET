@@ -6,6 +6,7 @@ Sistema web completo para adoção de pets que permite cadastro de usuários, au
 
 ## Backend
 Node.js, Express, MongoDB, Mongoose, JWT Authentication, Multer, MVC, RESTful API
+https://img.shields.io/badge/Node.js-43853D?
 
 ## Frontend
 React, React Router DOM, Axios, Context API, CSS Modules
