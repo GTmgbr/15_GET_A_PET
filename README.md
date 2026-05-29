@@ -5,7 +5,6 @@ Sistema web completo para adoção de pets que permite cadastro de usuários, au
 # Tecnologias Utilizadas
 
 ## Backend
-Node.js, Express, MongoDB, Mongoose, JWT Authentication, Multer, MVC, RESTful API
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
